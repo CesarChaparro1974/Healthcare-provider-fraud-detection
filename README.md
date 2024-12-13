@@ -1,3 +1,4 @@
+![Healthcare Fraud Detection](assets/fraud.png)
 # Healthcare-provider-fraud-detection
 Predict the potentially fraudulent providers
 About Dataset
